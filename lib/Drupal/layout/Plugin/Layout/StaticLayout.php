@@ -2,10 +2,10 @@
 
 /**
  * @file
- * Definition of Drupal\layout\Plugin\layout\layout\StaticLayout.
+ * Contains \Drupal\layout\Plugin\Layout\StaticLayout.
  */
 
-namespace Drupal\layout\Plugin\layout\layout;
+namespace Drupal\layout\Plugin\Layout;
 
 use Drupal\layout\Plugin\LayoutInterface;
 use Drupal\Component\Plugin\PluginBase;
